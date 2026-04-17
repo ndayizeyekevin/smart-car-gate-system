@@ -10,6 +10,7 @@ from datetime import datetime
 import os
 
 
+
 class WhatsAppCloudDetector:
     def __init__(self):
         print("🚀 Loading license plate detection model...")
